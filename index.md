@@ -1,3 +1,4 @@
-| layout | title                 |
-|--------|-----------------------| 
-| page   | Home \| Hayda Almeida |
+---
+layout: page
+title: Home | Hayda Almeida
+---
