@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Dependencies
 markdown:         kramdown
+remote_theme: fongandrew/hydeout
 highlighter:      rouge
 
 # Setup
@@ -19,7 +20,7 @@ author:
   name:           'Andrew Fong'
   url:            https://twitter.com/fongandrewc
 
-paginate:         5
+paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -35,5 +36,5 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 =======
-theme: jekyll-theme-cayman
->>>>>>> f8e2f100b938b17c1750861ae602dbb1f568ceeb
+#theme: jekyll-theme-cayman
+#>>>>>>> f8e2f100b938b17c1750861ae602dbb1f568ceeb
