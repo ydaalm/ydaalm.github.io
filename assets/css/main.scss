@@ -3,7 +3,10 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: #360056
-
+$sidebar-bg-color:  #280040;
+$large-font-size: 1rem;
+$sidebar-width: 22rem;
+$heading-spacing: 5rem;
+$section-spacing: 5rem;
 
 @import "hydeout";

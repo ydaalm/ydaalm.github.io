@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Home
-sidebar_link: true
+#title: Home
+#sidebar_link: true
 ---
 
 <p class="message">
-  Hello!
+  Hello! This is a test
 </p>
 
 
