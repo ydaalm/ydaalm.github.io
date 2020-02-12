@@ -1,0 +1,62 @@
+/* Main page with stikky-footer
+-------------------------------------------------- */
+html,
+body {
+  position: relative;
+  height: 100%;
+ /* background-color: #fff;*/
+  background-color: #EDEDFB; /*lighter than 'lavender'*/
+  font-family: 'Arial', sans-serif;
+  font-size: 18px;
+  /* The html and body elements cannot have any padding or margin. */
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: lavender;
+  position: fixed; /* Set the navbar to fixed position */
+  left: 30; 
+  width: 10%; /* Full width */
+}
+
+
+a {
+  color: indigo;
+}
+
+.container {
+  max-width: 960px;
+  padding-top: 5%;
+}
+
+.pad-10 {
+  padding-top: 10%;
+}
+
+.pad-20 {
+  padding-top: 20%;
+}
+
+.pad-30 {
+  padding-top: 30%;
+}
+
+.page-not-found{
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+
+.avatar{
+  padding-top:  30%;
+  padding-bottom: 20px;
+}
+
+.social{
+  word-spacing: 10px;
+}
