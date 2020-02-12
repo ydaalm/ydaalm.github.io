@@ -16,6 +16,24 @@ body {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+   body {
+	background-color: #202025;
+   }
+   a {
+	color: lavender
+   }
+}
+
+@media (prefers-color-scheme: light) {
+   body {
+	background-color: #EDEDFB;
+   }
+   a {
+	color: indigo;
+   }
+}
+
 .navbar {
   overflow: hidden;
   background-color: lavender;
@@ -23,7 +41,6 @@ body {
   left: 30; 
   width: 10%; /* Full width */
 }
-
 
 a {
   color: indigo;
