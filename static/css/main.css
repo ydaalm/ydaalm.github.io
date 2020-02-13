@@ -12,7 +12,7 @@ body {
 }
 @media (min-width: 768px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -39,7 +39,11 @@ a {
 
 .container {
   max-width: 960px;
-  padding-top: 5%;
+  padding-top: 2%;
+}
+
+.menu {
+  line-height: 125%;
 }
 
 .pad-10 {
@@ -62,9 +66,9 @@ a {
 
 .avatar{
   padding-top:  30%;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 .social{
-  word-spacing: 10px;
+  word-spacing: 15px;
 }
